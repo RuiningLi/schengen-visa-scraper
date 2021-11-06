@@ -1,0 +1,57 @@
+{
+    "france": {
+        "london": {
+            "url": "https://fr.tlscontact.com/gb/LON/login.php",
+            "accounts": [
+                {
+                    "email": "gafog83038@d3ff.com",
+                    "pwd": "Pa$$Word11"
+                },
+                {    
+                    "email": "bivog81815@dukeoo.com",
+                    "pwd": "Pa$$Word11"
+                }
+            ]
+        },
+        "manchester": {
+            "url": "https://fr.tlscontact.com/gb/MNC/login.php",
+            "accounts": [
+                {    
+                    "email": "bivog81815@dukeoo.com",
+                    "pwd": "Pa$$Word11"
+                }
+            ]
+        },
+        "edinburgh": {
+            "url": "https://fr.tlscontact.com/gb/EDI/login.php",
+            "accounts": [
+                {    
+                    "email": "bivog81815@dukeoo.com",
+                    "pwd": "Pa$$Word11"
+                }
+            ]
+        }
+    },
+    "switzerland": {
+        "london": {
+
+        },
+        "manchester": {
+
+        },
+        "edinburgh": {
+
+        }
+    },
+    "netherland": {
+        "london": {
+
+        },
+        "manchester": {
+
+        },
+        "edinburgh": {
+            
+        }
+    }
+}
